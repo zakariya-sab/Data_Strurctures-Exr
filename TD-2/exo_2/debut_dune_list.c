@@ -4,9 +4,10 @@ Réponse à la question numero 1: "Une fonction qui ajoute un élément au débu
 
 node * : variable de type struct qui contien un varible nbr de type int et autre variable link de type pointeur sur node .
 
- head : l'adresse de l'1er element dans le list .
+head : l'adresse de l'1er element dans le list .
 
- n : donnée du nouvel element .
+n : donnée du nouvel element .
+
 */
 
 node *debut_dune_list(node*head,int n ){
